@@ -1,3 +1,5 @@
+![](http://cdn.cabbagelol.net/image/5511aece-c937-4ccd-b655-88e2fa687a1b.gif)
+
 # Flutter Drawer Plugin
 
 [![pub package](https://img.shields.io/badge/pub-0.0.1-brightgreen)](https://github.com/cabbagelol/flutter-plugin-drawer)
